@@ -1,0 +1,1499 @@
+Phenylacetylene
+C8H6
+536-74-3 Copyright (C) 2025 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  8 8 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 4.6201 1.3337 0.0 0
+M  V30 2 C 6.1601 1.3337 0.0 0
+M  V30 3 C 3.0800 1.3337 0.0 0
+M  V30 4 C 2.3100 0.0000 0.0 0
+M  V30 5 C 2.3100 2.6673 0.0 0
+M  V30 6 C 0.7700 0.0000 0.0 0
+M  V30 7 C 0.7700 2.6673 0.0 0
+M  V30 8 C 0.0000 1.3337 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 3 1 2
+M  V30 2 1 1 3
+M  V30 3 2 3 4
+M  V30 4 1 3 5
+M  V30 5 1 4 6
+M  V30 6 2 5 7
+M  V30 7 2 6 8
+M  V30 8 1 7 8
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+536-74-3
+
+> <cas.index.name>
+Benzene, ethynyl-
+
+> <molecular.formula>
+C8H6
+
+> <molecular.weight>
+102.13
+
+> <melting.point.experimental>
+-44.8 °C
+
+> <boiling.point.experimental>
+142-144 °C
+
+> <density.experimental>
+0.93 g/cm³ (liquid)
+
+$$$$
+4-Methylphenylacetylene
+C9H8
+766-97-2 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  9 9 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 6.1600 1.3336 0.0 0
+M  V30 2 C 7.7000 1.3336 0.0 0
+M  V30 3 C 0.0000 1.3336 0.0 0
+M  V30 4 C 4.6200 1.3336 0.0 0
+M  V30 5 C 3.8500 0.0000 0.0 0
+M  V30 6 C 3.8500 2.6673 0.0 0
+M  V30 7 C 2.3100 0.0000 0.0 0
+M  V30 8 C 2.3100 2.6673 0.0 0
+M  V30 9 C 1.5400 1.3336 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 3 1 2
+M  V30 2 1 1 4
+M  V30 3 1 3 9
+M  V30 4 2 4 5
+M  V30 5 1 4 6
+M  V30 6 1 5 7
+M  V30 7 2 6 8
+M  V30 8 2 7 9
+M  V30 9 1 8 9
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+766-97-2
+
+> <cas.index.name>
+Benzene, 1-ethynyl-4-methyl-
+
+> <molecular.formula>
+C9H8
+
+> <molecular.weight>
+116.16
+
+> <melting.point.experimental>
+108-109 °C
+
+> <boiling.point.experimental>
+168-170 °C
+
+> <density.predicted>
+0.940±0.10 g/cm3    Temp: 25 °C; Press: 760 Torr
+
+$$$$
+3-Methylphenylacetylene
+C9H8
+766-82-5 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  9 9 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 5.3348 3.0801 0.0 0
+M  V30 2 C 6.6687 3.8501 0.0 0
+M  V30 3 C 0.0000 3.0801 0.0 0
+M  V30 4 C 4.0012 2.3101 0.0 0
+M  V30 5 C 2.6675 3.0801 0.0 0
+M  V30 6 C 4.0012 0.7700 0.0 0
+M  V30 7 C 1.3338 2.3101 0.0 0
+M  V30 8 C 2.6675 0.0000 0.0 0
+M  V30 9 C 1.3338 0.7700 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 3 1 2
+M  V30 2 1 1 4
+M  V30 3 1 3 7
+M  V30 4 2 4 5
+M  V30 5 1 4 6
+M  V30 6 1 5 7
+M  V30 7 2 6 8
+M  V30 8 2 7 9
+M  V30 9 1 8 9
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+766-82-5
+
+> <cas.index.name>
+Benzene, 1-ethynyl-3-methyl-
+
+> <molecular.formula>
+C9H8
+
+> <molecular.weight>
+116.16
+
+> <boiling.point.experimental>
+96-99 °C    Press: 46 Torr
+
+> <density.predicted>
+0.940±0.10 g/cm3    Temp: 25 °C; Press: 760 Torr
+
+$$$$
+1-Ethynyl-2-methylbenzene
+C9H8
+766-47-2 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  9 9 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 4.6201 2.6673 0.0 0
+M  V30 2 C 6.1601 2.6673 0.0 0
+M  V30 3 C 3.0801 0.0000 0.0 0
+M  V30 4 C 3.0801 2.6673 0.0 0
+M  V30 5 C 2.3101 1.3337 0.0 0
+M  V30 6 C 2.3101 4.0010 0.0 0
+M  V30 7 C 0.7700 1.3337 0.0 0
+M  V30 8 C 0.7700 4.0010 0.0 0
+M  V30 9 C 0.0000 2.6673 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 3 1 2
+M  V30 2 1 1 4
+M  V30 3 1 3 5
+M  V30 4 2 4 5
+M  V30 5 1 4 6
+M  V30 6 1 5 7
+M  V30 7 2 6 8
+M  V30 8 2 7 9
+M  V30 9 1 8 9
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+766-47-2
+
+> <cas.index.name>
+Benzene, 1-ethynyl-2-methyl-
+
+> <molecular.formula>
+C9H8
+
+> <molecular.weight>
+116.16
+
+> <boiling.point.experimental>
+93-96 °C    Press: 46 Torr
+
+> <density.predicted>
+0.940±0.10 g/cm3    Temp: 25 °C; Press: 760 Torr
+
+$$$$
+3-Butyn-1-ylbenzene
+C10H10
+16520-62-0 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  10 10 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 4.6201 1.3337 0.0 0
+M  V30 2 C 5.3901 2.6673 0.0 0
+M  V30 3 C 6.9301 2.6673 0.0 0
+M  V30 4 C 8.4701 2.6673 0.0 0
+M  V30 5 C 3.0800 1.3337 0.0 0
+M  V30 6 C 2.3100 0.0000 0.0 0
+M  V30 7 C 2.3100 2.6673 0.0 0
+M  V30 8 C 0.7700 0.0000 0.0 0
+M  V30 9 C 0.7700 2.6673 0.0 0
+M  V30 10 C 0.0000 1.3337 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 5
+M  V30 3 1 2 3
+M  V30 4 3 3 4
+M  V30 5 2 5 6
+M  V30 6 1 5 7
+M  V30 7 1 6 8
+M  V30 8 2 7 9
+M  V30 9 2 8 10
+M  V30 10 1 9 10
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+16520-62-0
+
+> <cas.index.name>
+Benzene, 3-butyn-1-yl-
+
+> <molecular.formula>
+C10H10
+
+> <molecular.weight>
+130.19
+
+> <boiling.point.experimental>
+90 °C    Press: 14 Torr
+
+> <density.predicted>
+0.936±0.06 g/cm3    Temp: 25 °C; Press: 760 Torr
+
+$$$$
+3-Phenyl-1-propyne
+C9H8
+10147-11-2 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  9 9 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 4.0011 3.0800 0.0 0
+M  V30 2 C 5.3347 2.3100 0.0 0
+M  V30 3 C 6.6685 1.5400 0.0 0
+M  V30 4 C 2.6674 2.3100 0.0 0
+M  V30 5 C 1.3338 3.0800 0.0 0
+M  V30 6 C 2.6674 0.7700 0.0 0
+M  V30 7 C 0.0000 2.3100 0.0 0
+M  V30 8 C 1.3338 0.0000 0.0 0
+M  V30 9 C 0.0000 0.7700 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 4
+M  V30 3 3 2 3
+M  V30 4 2 4 5
+M  V30 5 1 4 6
+M  V30 6 1 5 7
+M  V30 7 2 6 8
+M  V30 8 2 7 9
+M  V30 9 1 8 9
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+10147-11-2
+
+> <cas.index.name>
+Benzene, 2-propyn-1-yl-
+
+> <molecular.formula>
+C9H8
+
+> <molecular.weight>
+116.16
+
+> <boiling.point.experimental>
+71-74 °C    Press: 15 Torr
+
+> <density.experimental>
+0.944 g/cm³    Temp: 18 °C
+
+$$$$
+1-Ethyl-4-ethynylbenzene
+C10H10
+40307-11-7 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  10 10 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 0.7700 1.3337 0.0 0
+M  V30 2 C 0.0000 2.6673 0.0 0
+M  V30 3 C 6.9301 1.3337 0.0 0
+M  V30 4 C 8.4701 1.3337 0.0 0
+M  V30 5 C 2.3100 1.3337 0.0 0
+M  V30 6 C 3.0800 0.0000 0.0 0
+M  V30 7 C 3.0800 2.6673 0.0 0
+M  V30 8 C 4.6201 0.0000 0.0 0
+M  V30 9 C 4.6201 2.6673 0.0 0
+M  V30 10 C 5.3901 1.3337 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 5
+M  V30 3 3 3 4
+M  V30 4 1 3 10
+M  V30 5 2 5 6
+M  V30 6 1 5 7
+M  V30 7 1 6 8
+M  V30 8 2 7 9
+M  V30 9 2 8 10
+M  V30 10 1 9 10
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+40307-11-7
+
+> <cas.index.name>
+Benzene, 1-ethyl-4-ethynyl-
+
+> <molecular.formula>
+C10H10
+
+> <molecular.weight>
+130.19
+
+> <boiling.point.predicted>
+183.678±19.00 °C    Press: 760.00 Torr
+
+> <density.predicted>
+0.929±0.10 g/cm3    Temp: 25 °C; Press: 760 Torr
+
+$$$$
+1-Ethynyl-4-propylbenzene
+C11H12
+62452-73-7 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  11 11 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 2.3100 1.3336 0.0 0
+M  V30 2 C 1.5400 2.6673 0.0 0
+M  V30 3 C 0.0000 2.6673 0.0 0
+M  V30 4 C 8.4700 1.3336 0.0 0
+M  V30 5 C 10.0100 1.3336 0.0 0
+M  V30 6 C 3.8500 1.3336 0.0 0
+M  V30 7 C 4.6200 2.6673 0.0 0
+M  V30 8 C 4.6200 0.0000 0.0 0
+M  V30 9 C 6.1600 2.6673 0.0 0
+M  V30 10 C 6.1600 0.0000 0.0 0
+M  V30 11 C 6.9300 1.3336 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 6
+M  V30 3 1 2 3
+M  V30 4 3 4 5
+M  V30 5 1 4 11
+M  V30 6 2 6 7
+M  V30 7 1 6 8
+M  V30 8 1 7 9
+M  V30 9 2 8 10
+M  V30 10 2 9 11
+M  V30 11 1 10 11
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+62452-73-7
+
+> <cas.index.name>
+Benzene, 1-ethynyl-4-propyl-
+
+> <molecular.formula>
+C11H12
+
+> <molecular.weight>
+144.21
+
+> <boiling.point.predicted>
+204.904±19.00 °C    Press: 760.00 Torr
+
+> <density.predicted>
+0.920±0.10 g/cm3    Temp: 25 °C; Press: 760 Torr
+
+$$$$
+1-Ethynyl-3,5-dimethylbenzene
+C10H10
+6366-06-9 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  10 10 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 5.3348 4.6201 0.0 0
+M  V30 2 C 6.6686 5.3901 0.0 0
+M  V30 3 C 0.0000 4.6201 0.0 0
+M  V30 4 C 2.6675 0.0000 0.0 0
+M  V30 5 C 4.0011 3.8500 0.0 0
+M  V30 6 C 2.6675 4.6201 0.0 0
+M  V30 7 C 4.0011 2.3100 0.0 0
+M  V30 8 C 1.3338 3.8500 0.0 0
+M  V30 9 C 2.6675 1.5400 0.0 0
+M  V30 10 C 1.3338 2.3100 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 3 1 2
+M  V30 2 1 1 5
+M  V30 3 1 3 8
+M  V30 4 1 4 9
+M  V30 5 2 5 6
+M  V30 6 1 5 7
+M  V30 7 1 6 8
+M  V30 8 2 7 9
+M  V30 9 2 8 10
+M  V30 10 1 9 10
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+6366-06-9
+
+> <cas.index.name>
+Benzene, 1-ethynyl-3,5-dimethyl-
+
+> <molecular.formula>
+C10H10
+
+> <molecular.weight>
+130.19
+
+> <boiling.point.predicted>
+206.321±29.00 °C    Press: 760.00 Torr
+
+> <density.predicted>
+0.932±0.10 g/cm3    Temp: 25 °C; Press: 760 Torr
+
+$$$$
+(1-Methyl-2-propyn-1-yl)benzene
+C10H10
+4544-28-9 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  10 10 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 4.0011 1.5400 0.0 0
+M  V30 2 C 5.3347 2.3100 0.0 0
+M  V30 3 C 4.0011 0.0000 0.0 0
+M  V30 4 C 6.6685 3.0800 0.0 0
+M  V30 5 C 2.6674 2.3100 0.0 0
+M  V30 6 C 1.3338 1.5400 0.0 0
+M  V30 7 C 2.6674 3.8500 0.0 0
+M  V30 8 C 0.0000 2.3100 0.0 0
+M  V30 9 C 1.3338 4.6200 0.0 0
+M  V30 10 C 0.0000 3.8500 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 3 1 1 5
+M  V30 4 3 2 4
+M  V30 5 2 5 6
+M  V30 6 1 5 7
+M  V30 7 1 6 8
+M  V30 8 2 7 9
+M  V30 9 2 8 10
+M  V30 10 1 9 10
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+4544-28-9
+
+> <cas.index.name>
+Benzene, (1-methyl-2-propyn-1-yl)-
+
+> <molecular.formula>
+C10H10
+
+> <molecular.weight>
+130.19
+
+> <boiling.point.predicted>
+160.819±9.00 °C    Press: 760.00 Torr
+
+> <density.predicted>
+0.931±0.06 g/cm3    Temp: 25 °C; Press: 760 Torr
+
+$$$$
+1-Methyl-4-(2-propyn-1-yl)benzene
+C10H10
+30342-96-2 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  10 10 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 5.3348 3.0800 0.0 0
+M  V30 2 C 6.6686 2.3100 0.0 0
+M  V30 3 C 8.0022 1.5400 0.0 0
+M  V30 4 C 0.0000 0.0000 0.0 0
+M  V30 5 C 4.0011 2.3100 0.0 0
+M  V30 6 C 2.6675 3.0800 0.0 0
+M  V30 7 C 4.0011 0.7700 0.0 0
+M  V30 8 C 1.3337 2.3100 0.0 0
+M  V30 9 C 2.6675 0.0000 0.0 0
+M  V30 10 C 1.3337 0.7700 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 5
+M  V30 3 3 2 3
+M  V30 4 1 4 10
+M  V30 5 2 5 6
+M  V30 6 1 5 7
+M  V30 7 1 6 8
+M  V30 8 2 7 9
+M  V30 9 2 8 10
+M  V30 10 1 9 10
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+30342-96-2
+
+> <cas.index.name>
+Benzene, 1-methyl-4-(2-propyn-1-yl)-
+
+> <molecular.formula>
+C10H10
+
+> <molecular.weight>
+130.19
+
+> <boiling.point.experimental>
+83 °C
+
+> <density.experimental>
+0.958 g/cm³    Temp: 0 °C
+
+$$$$
+(1,1-Dimethyl-2-propyn-1-yl)benzene
+C11H12
+28129-05-7 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  11 11 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 4.0011 1.5400 0.0 0
+M  V30 2 C 5.3347 2.3100 0.0 0
+M  V30 3 C 5.3347 0.7700 0.0 0
+M  V30 4 C 4.0011 0.0000 0.0 0
+M  V30 5 C 6.6685 3.0800 0.0 0
+M  V30 6 C 2.6674 2.3100 0.0 0
+M  V30 7 C 1.3338 1.5400 0.0 0
+M  V30 8 C 2.6674 3.8500 0.0 0
+M  V30 9 C 0.0000 2.3100 0.0 0
+M  V30 10 C 1.3338 4.6200 0.0 0
+M  V30 11 C 0.0000 3.8500 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 3 1 1 4
+M  V30 4 1 1 6
+M  V30 5 3 2 5
+M  V30 6 2 6 7
+M  V30 7 1 6 8
+M  V30 8 1 7 9
+M  V30 9 2 8 10
+M  V30 10 2 9 11
+M  V30 11 1 10 11
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+28129-05-7
+
+> <cas.index.name>
+Benzene, (1,1-dimethyl-2-propyn-1-yl)-
+
+> <molecular.formula>
+C11H12
+
+> <molecular.weight>
+144.21
+
+> <boiling.point.predicted>
+181.461±9.00 °C    Press: 760.00 Torr
+
+> <density.predicted>
+0.922±0.06 g/cm3    Temp: 25 °C; Press: 760 Torr
+
+$$$$
+1-Ethyl-2-ethynylbenzene
+C10H10
+75659-49-3 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  10 10 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 3.0800 1.3338 0.0 0
+M  V30 2 C 2.3100 0.0000 0.0 0
+M  V30 3 C 4.6200 4.0011 0.0 0
+M  V30 4 C 6.1600 4.0011 0.0 0
+M  V30 5 C 2.3100 2.6674 0.0 0
+M  V30 6 C 3.0800 4.0011 0.0 0
+M  V30 7 C 0.7700 2.6674 0.0 0
+M  V30 8 C 2.3100 5.3349 0.0 0
+M  V30 9 C 0.0000 4.0011 0.0 0
+M  V30 10 C 0.7700 5.3349 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 5
+M  V30 3 3 3 4
+M  V30 4 1 3 6
+M  V30 5 2 5 6
+M  V30 6 1 5 7
+M  V30 7 1 6 8
+M  V30 8 2 7 9
+M  V30 9 2 8 10
+M  V30 10 1 9 10
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+75659-49-3
+
+> <cas.index.name>
+Benzene, 1-ethyl-2-ethynyl-
+
+> <molecular.formula>
+C10H10
+
+> <molecular.weight>
+130.19
+
+> <boiling.point.predicted>
+195.166±19.00 °C    Press: 760.00 Torr
+
+> <density.predicted>
+0.929±0.10 g/cm3    Temp: 25 °C; Press: 760 Torr
+
+$$$$
+1-Ethyl-3-ethynylbenzene
+C10H10
+29074-77-9 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  10 10 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 1.3337 3.0801 0.0 0
+M  V30 2 C 0.0000 2.3101 0.0 0
+M  V30 3 C 6.6687 3.0801 0.0 0
+M  V30 4 C 8.0023 3.8501 0.0 0
+M  V30 5 C 4.0012 3.0801 0.0 0
+M  V30 6 C 2.6675 2.3101 0.0 0
+M  V30 7 C 5.3348 2.3101 0.0 0
+M  V30 8 C 2.6675 0.7700 0.0 0
+M  V30 9 C 5.3348 0.7700 0.0 0
+M  V30 10 C 4.0012 0.0000 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 6
+M  V30 3 3 3 4
+M  V30 4 1 3 7
+M  V30 5 2 5 6
+M  V30 6 1 5 7
+M  V30 7 1 6 8
+M  V30 8 2 7 9
+M  V30 9 2 8 10
+M  V30 10 1 9 10
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+29074-77-9
+
+> <cas.index.name>
+Benzene, 1-ethyl-3-ethynyl-
+
+> <molecular.formula>
+C10H10
+
+> <molecular.weight>
+130.19
+
+> <boiling.point.predicted>
+195.619±19.00 °C    Press: 760.00 Torr
+
+> <density.predicted>
+0.929±0.10 g/cm3    Temp: 25 °C; Press: 760 Torr
+
+$$$$
+1,4-Pentadiyn-1-ylbenzene
+C11H8
+6088-96-6 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  11 11 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 4.0012 3.0801 0.0 0
+M  V30 2 C 5.3348 3.8501 0.0 0
+M  V30 3 C 6.6685 4.6201 0.0 0
+M  V30 4 C 8.0023 3.8501 0.0 0
+M  V30 5 C 9.3360 3.0801 0.0 0
+M  V30 6 C 2.6675 2.3101 0.0 0
+M  V30 7 C 2.6675 0.7700 0.0 0
+M  V30 8 C 1.3337 3.0801 0.0 0
+M  V30 9 C 1.3337 0.0000 0.0 0
+M  V30 10 C 0.0000 2.3101 0.0 0
+M  V30 11 C 0.0000 0.7700 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 3 1 2
+M  V30 2 1 1 6
+M  V30 3 1 2 3
+M  V30 4 1 3 4
+M  V30 5 3 4 5
+M  V30 6 2 6 7
+M  V30 7 1 6 8
+M  V30 8 1 7 9
+M  V30 9 2 8 10
+M  V30 10 2 9 11
+M  V30 11 1 10 11
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+6088-96-6
+
+> <cas.index.name>
+Benzene, 1,4-pentadiyn-1-yl-
+
+> <molecular.formula>
+C11H8
+
+> <molecular.weight>
+140.18
+
+> <boiling.point.experimental>
+77 °C    Press: 3 Torr
+
+> <density.experimental>
+0.979 g/cm³    Temp: 20 °C
+
+$$$$
+1-Methyl-2-(2-propyn-1-yl)benzene
+C10H10
+37982-72-2 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  10 10 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 4.0011 1.5400 0.0 0
+M  V30 2 C 5.3347 2.3100 0.0 0
+M  V30 3 C 6.6685 3.0800 0.0 0
+M  V30 4 C 1.3338 0.0000 0.0 0
+M  V30 5 C 2.6674 2.3100 0.0 0
+M  V30 6 C 1.3338 1.5400 0.0 0
+M  V30 7 C 2.6674 3.8500 0.0 0
+M  V30 8 C 0.0000 2.3100 0.0 0
+M  V30 9 C 1.3338 4.6200 0.0 0
+M  V30 10 C 0.0000 3.8500 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 5
+M  V30 3 3 2 3
+M  V30 4 1 4 6
+M  V30 5 2 5 6
+M  V30 6 1 5 7
+M  V30 7 1 6 8
+M  V30 8 2 7 9
+M  V30 9 2 8 10
+M  V30 10 1 9 10
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+37982-72-2
+
+> <cas.index.name>
+Benzene, 1-methyl-2-(2-propyn-1-yl)-
+
+> <molecular.formula>
+C10H10
+
+> <molecular.weight>
+130.19
+
+> <boiling.point.experimental>
+80 °C
+
+> <density.experimental>
+0.951 g/cm³    Temp: 0 °C
+
+$$$$
+Propargylamine
+C3H5N
+2450-71-7 Copyright (C) 2025 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  4 3 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 1.3337 0.7700 0.0 0
+M  V30 2 C 2.6673 0.0000 0.0 0
+M  V30 3 C 0.0000 1.5400 0.0 0
+M  V30 4 N 4.0010 0.7700 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 3 1 3
+M  V30 3 1 2 4
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+2450-71-7
+
+> <cas.index.name>
+2-Propyn-1-amine
+
+> <molecular.formula>
+C3H5N
+
+> <molecular.weight>
+55.08
+
+> <melting.point.experimental>
+174-175 °C
+
+> <boiling.point.experimental>
+83 °C
+
+> <density.experimental>
+0.860 g/cm³
+
+> <pka.predicted>
+7.894±0.29    Most Basic Temp: 25 °C
+
+$$$$
+1-Pentyne
+C5H8
+627-19-0 Copyright (C) 2025 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  5 4 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 2.3100 1.3336 0.0 0
+M  V30 2 C 1.5400 0.0000 0.0 0
+M  V30 3 C 3.8500 1.3336 0.0 0
+M  V30 4 C 0.0000 0.0000 0.0 0
+M  V30 5 C 5.3900 1.3336 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 3 1 2 4
+M  V30 4 3 3 5
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+627-19-0
+
+> <cas.index.name>
+1-Pentyne
+
+> <molecular.formula>
+C5H8
+
+> <molecular.weight>
+68.12
+
+> <melting.point.experimental>
+-90 °C
+
+> <boiling.point.experimental>
+40.150 °C
+
+> <density.experimental>
+0.690 g/cm³    Temp: 20 °C; Press: 750 Torr
+
+$$$$
+1-Butyne
+C4H6
+107-00-6 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  4 3 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 2.6673 0.0000 0.0 0
+M  V30 2 C 1.3337 0.7700 0.0 0
+M  V30 3 C 4.0010 0.7700 0.0 0
+M  V30 4 C 0.0000 1.5400 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 3 3 2 4
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+107-00-6
+
+> <cas.index.name>
+1-Butyne
+
+> <molecular.formula>
+C4H6
+
+> <molecular.weight>
+54.09
+
+> <melting.point.experimental>
+-125.7 °C
+
+> <boiling.point.experimental>
+8.0700 °C
+
+> <density.experimental>
+0.678 g/cm³    Temp: 20 °C; Press: 750 Torr
+
+$$$$
+3-Methyl-1-butyne
+C5H8
+598-23-2 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  5 4 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 1.3337 1.5400 0.0 0
+M  V30 2 C 2.6673 2.3101 0.0 0
+M  V30 3 C 0.0000 2.3101 0.0 0
+M  V30 4 C 1.3337 0.0000 0.0 0
+M  V30 5 C 4.0010 3.0801 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 3 1 1 4
+M  V30 4 3 2 5
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+598-23-2
+
+> <cas.index.name>
+1-Butyne, 3-methyl-
+
+> <molecular.formula>
+C5H8
+
+> <molecular.weight>
+68.12
+
+> <melting.point.experimental>
+-89.7 °C
+
+> <boiling.point.experimental>
+28.190 °C
+
+> <density.experimental>
+0.6670 g/cm³    Temp: 20 °C
+
+$$$$
+4-Methyl-1-pentyne
+C6H10
+7154-75-8 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  6 5 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 2.3100 2.6673 0.0 0
+M  V30 2 C 1.5400 1.3336 0.0 0
+M  V30 3 C 3.8500 2.6673 0.0 0
+M  V30 4 C 2.3100 0.0000 0.0 0
+M  V30 5 C 0.0000 1.3336 0.0 0
+M  V30 6 C 5.3900 2.6673 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 3 1 2 4
+M  V30 4 1 2 5
+M  V30 5 3 3 6
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+7154-75-8
+
+> <cas.index.name>
+1-Pentyne, 4-methyl-
+
+> <molecular.formula>
+C6H10
+
+> <molecular.weight>
+82.14
+
+> <melting.point.experimental>
+-104.6 °C
+
+> <boiling.point.experimental>
+61-62 °C
+
+> <density.experimental>
+0.7041 g/cm³    Temp: 20 °C
+
+$$$$
+4-Pentyn-1-amine
+C5H9N
+15252-44-5 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  6 5 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 4.0012 1.5400 0.0 0
+M  V30 2 C 2.6675 0.7700 0.0 0
+M  V30 3 C 5.3348 0.7700 0.0 0
+M  V30 4 C 1.3338 1.5400 0.0 0
+M  V30 5 C 6.6687 0.0000 0.0 0
+M  V30 6 N 0.0000 0.7700 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 3 1 2 4
+M  V30 4 3 3 5
+M  V30 5 1 4 6
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+15252-44-5
+
+> <cas.index.name>
+4-Pentyn-1-amine
+
+> <molecular.formula>
+C5H9N
+
+> <molecular.weight>
+83.13
+
+> <boiling.point.predicted>
+118.034±23.00 °C    Press: 760.00 Torr
+
+> <density.predicted>
+0.844±0.06 g/cm3    Temp: 25 °C; Press: 760 Torr
+
+> <pka.predicted>
+9.759±0.10    Most Basic Temp: 25 °C
+
+$$$$
+3-Butyn-2-amine
+C4H7N
+30389-17-4 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  5 4 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 1.3337 1.5400 0.0 0
+M  V30 2 C 2.6673 2.3101 0.0 0
+M  V30 3 C 0.0000 2.3101 0.0 0
+M  V30 4 N 1.3337 0.0000 0.0 0
+M  V30 5 C 4.0010 3.0801 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 3 1 1 4
+M  V30 4 3 2 5
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+30389-17-4
+
+> <cas.index.name>
+3-Butyn-2-amine
+
+> <molecular.formula>
+C4H7N
+
+> <molecular.weight>
+69.11
+
+> <boiling.point.experimental>
+83 °C
+
+> <density.experimental>
+0.822 g/cm³    Temp: 20 °C
+
+> <pka.predicted>
+8.360±0.29    Most Basic Temp: 25 °C
+
+$$$$
+3-Methyl-1-pentyne
+C6H10
+922-59-8 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  6 5 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 2.3100 1.3336 0.0 0
+M  V30 2 C 1.5400 2.6673 0.0 0
+M  V30 3 C 3.8500 1.3336 0.0 0
+M  V30 4 C 1.5400 0.0000 0.0 0
+M  V30 5 C 0.0000 2.6673 0.0 0
+M  V30 6 C 5.3900 1.3336 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 3 1 1 4
+M  V30 4 1 2 5
+M  V30 5 3 3 6
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+922-59-8
+
+> <cas.index.name>
+1-Pentyne, 3-methyl-
+
+> <molecular.formula>
+C6H10
+
+> <molecular.weight>
+82.14
+
+> <boiling.point.experimental>
+56-58 °C
+
+> <density.experimental>
+0.7037 g/cm³    Temp: 20 °C
+
+$$$$
+1,4-Heptadiyne
+C7H8
+66084-38-6 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  7 6 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 4.0012 0.7700 0.0 0
+M  V30 2 C 2.6675 0.0000 0.0 0
+M  V30 3 C 5.3348 1.5400 0.0 0
+M  V30 4 C 1.3337 0.7700 0.0 0
+M  V30 5 C 6.6687 2.3101 0.0 0
+M  V30 6 C 0.0000 1.5400 0.0 0
+M  V30 7 C 8.0023 1.5400 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 3 1 3
+M  V30 3 1 2 4
+M  V30 4 1 3 5
+M  V30 5 3 4 6
+M  V30 6 1 5 7
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+66084-38-6
+
+> <cas.index.name>
+1,4-Heptadiyne
+
+> <molecular.formula>
+C7H8
+
+> <molecular.weight>
+92.14
+
+> <boiling.point.experimental>
+62-63 °C    Press: 80 Torr
+
+> <density.experimental>
+0.8086 g/cm³    Temp: 20 °C
+
+$$$$
+1,4-Hexadiyne
+C6H6
+10420-91-4 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  6 5 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 4.0012 0.0000 0.0 0
+M  V30 2 C 2.6675 0.7700 0.0 0
+M  V30 3 C 5.3348 0.7700 0.0 0
+M  V30 4 C 1.3338 1.5400 0.0 0
+M  V30 5 C 6.6687 1.5400 0.0 0
+M  V30 6 C 0.0000 2.3101 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 3 3 2 4
+M  V30 4 3 3 5
+M  V30 5 1 4 6
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+10420-91-4
+
+> <cas.index.name>
+1,4-Hexadiyne
+
+> <molecular.formula>
+C6H6
+
+> <molecular.weight>
+78.11
+
+> <boiling.point.experimental>
+53-55 °C    Press: 120 Torr
+
+> <density.experimental>
+0.8331 g/cm³    Temp: 20 °C
+
+$$$$
+3-Ethyl-1-pentyne
+C7H12
+21020-26-8 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  7 6 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 2.6676 0.7700 0.0 0
+M  V30 2 C 1.3340 0.0000 0.0 0
+M  V30 3 C 4.0013 0.0000 0.0 0
+M  V30 4 C 2.6676 2.3101 0.0 0
+M  V30 5 C 0.0000 0.7700 0.0 0
+M  V30 6 C 5.3350 0.7700 0.0 0
+M  V30 7 C 4.0013 3.0801 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 3 1 1 4
+M  V30 4 1 2 5
+M  V30 5 1 3 6
+M  V30 6 3 4 7
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+21020-26-8
+
+> <cas.index.name>
+1-Pentyne, 3-ethyl-
+
+> <molecular.formula>
+C7H12
+
+> <molecular.weight>
+96.17
+
+> <boiling.point.experimental>
+85 °C    Press: 760 Torr
+
+> <density.predicted>
+0.750±0.06 g/cm3    Temp: 25 °C; Press: 760 Torr
+
+$$$$
+Propyne
+C3H4
+74-99-7 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  3 2 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 1.5400 0.0000 0.0 0
+M  V30 2 C 0.0000 0.0000 0.0 0
+M  V30 3 C 3.0800 0.0000 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 3 1 3
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+74-99-7
+
+> <cas.index.name>
+1-Propyne
+
+> <molecular.formula>
+C3H4
+
+> <molecular.weight>
+40.06
+
+> <melting.point.experimental>
+-102.7 °C
+
+> <boiling.point.experimental>
+-23.2 °C    Press: 760 Torr
+
+> <density.experimental>
+0.7062 g/cm³    Temp: -50 °C
+
+$$$$
+5-Bromo-1-pentyne
+C5H7Br
+28077-72-7 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  6 5 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 2.6675 0.7700 0.0 0
+M  V30 2 C 4.0012 1.5400 0.0 0
+M  V30 3 C 1.3338 1.5400 0.0 0
+M  V30 4 C 5.3348 0.7700 0.0 0
+M  V30 5 Br 0.0000 0.7700 0.0 0
+M  V30 6 C 6.6687 0.0000 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 3 1 2 4
+M  V30 4 1 3 5
+M  V30 5 3 4 6
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+28077-72-7
+
+> <cas.index.name>
+1-Pentyne, 5-bromo-
+
+> <molecular.formula>
+C5H7Br
+
+> <molecular.weight>
+147.01
+
+> <boiling.point.experimental>
+80-82 °C    Press: 110 Torr
+
+> <density.predicted>
+1.361±0.06 g/cm3    Temp: 25 °C; Press: 760 Torr
+
+$$$$
+Propargyl bromide
+C3H3Br
+106-96-7 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  4 3 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 2.6673 0.0000 0.0 0
+M  V30 2 C 1.3337 0.7700 0.0 0
+M  V30 3 Br 4.0010 0.7700 0.0 0
+M  V30 4 C 0.0000 1.5400 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 3 3 2 4
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+106-96-7
+
+> <cas.index.name>
+1-Propyne, 3-bromo-
+
+> <molecular.formula>
+C3H3Br
+
+> <molecular.weight>
+118.96
+
+> <boiling.point.experimental>
+88-90 °C
+
+> <density.experimental>
+1.579 g/cm³    Temp: 19 °C
+
+$$$$
+3-(Chloromethoxy)-1-propyne
+C4H5ClO
+40308-66-5 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  6 5 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 2.6675 1.5400 0.0 0
+M  V30 2 O 4.0012 0.7700 0.0 0
+M  V30 3 C 1.3338 0.7700 0.0 0
+M  V30 4 C 5.3348 1.5400 0.0 0
+M  V30 5 C 0.0000 0.0000 0.0 0
+M  V30 6 Cl 6.6687 0.7700 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 3 1 2 4
+M  V30 4 3 3 5
+M  V30 5 1 4 6
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+40308-66-5
+
+> <cas.index.name>
+1-Propyne, 3-(chloromethoxy)-
+
+> <molecular.formula>
+C4H5ClO
+
+> <molecular.weight>
+104.53
+
+> <boiling.point.experimental>
+114 °C
+
+> <density.experimental>
+1.114 g/cm³    Temp: 204 °C
+
+$$$$
+4-(2-Bromoethoxy)-1-butyne
+C6H9BrO
+854259-74-8 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  8 7 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 4.0012 0.7700 0.0 0
+M  V30 2 O 5.3348 1.5400 0.0 0
+M  V30 3 C 2.6675 1.5400 0.0 0
+M  V30 4 C 6.6685 0.7700 0.0 0
+M  V30 5 C 1.3337 0.7700 0.0 0
+M  V30 6 C 8.0023 1.5400 0.0 0
+M  V30 7 C 0.0000 0.0000 0.0 0
+M  V30 8 Br 9.3360 0.7700 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 3 1 2 4
+M  V30 4 1 3 5
+M  V30 5 1 4 6
+M  V30 6 3 5 7
+M  V30 7 1 6 8
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <cas.rn>
+854259-74-8
+
+> <cas.index.name>
+1-Butyne, 4-(2-bromoethoxy)-
+
+> <molecular.formula>
+C6H9BrO
+
+> <molecular.weight>
+177.04
+
+> <boiling.point.predicted>
+196.945±20.00 °C    Press: 760.00 Torr
+
+> <density.predicted>
+1.353±0.06 g/cm3    Temp: 25 °C; Press: 760 Torr
+
+$$$$

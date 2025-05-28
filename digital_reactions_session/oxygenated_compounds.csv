@@ -1,0 +1,26 @@
+name,SMILES
+acetone,CC(=O)C
+2-butanone,CCC(=O)C
+2-pentanone,CCCC(=O)C
+2-hexanone,CCCCC(=O)C
+ethyl acetate,CC(=O)OCC
+formaldehyde,C=O
+benzaldehyde,O=CC1=CC=CC=C1
+acetic acid,CC(=O)O
+formic acid,C(=O)O
+acetophenone,CC(=O)C1=CC=CC=C1
+butanal,CCCC=O
+propanal,CCC=O
+hexanoic acid,CCCCCC(=O)O
+heptanal,CCCCCCC=O
+acetaldehyde,CC=O
+benzoic acid,C1=CC=CC=C1C(=O)O
+cyclohexanone,O=C1CCCCC1
+octanal,CCCCCCCC=O
+decanoic acid,CCCCCCCCCC(=O)O
+pivalic acid,CC(C)(C)C(=O)O
+pivaldehyde,CC(C)(C)C=O
+acetyl chloride,CC(=O)Cl
+ethoxyethane,CCOCC
+phenol,OC1=CC=CC=C1
+ethanol,OCC
