@@ -1,0 +1,2 @@
+model,type,kfold,repeat_kfolds,seed,error_type,y,names,X_descriptors,params,combined_rmse,split
+NN,reg,2,1,0,rmse,yield,__robert_name__,"['C3', 'C1', 'L4', 'L3']","{'hidden_layer_1': 7, 'hidden_layer_2': 8, 'max_iter': 452, 'alpha': 0.08345178566096498, 'tol': 1.854613948105668e-05, 'random_state': 0, 'solver': 'lbfgs'}",25.60600300205609,even

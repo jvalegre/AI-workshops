@@ -1,0 +1,155 @@
+ROBERT v 2.1.0 2026/05/14 22:56:20 
+How to cite: Dalmau, D.; Alegre Requena, J. V. WIREs Comput Mol Sci. 2024, 14, e1733.
+
+
+o  Representation of predictions and analysis of ML models with the PREDICT module
+
+
+------- Starting model with all variables (No PFI) -------
+
+o  Database NN_db.csv loaded successfully, including:
+   - 24 datapoints
+   - 8 accepted descriptors
+   - 2 ignored descriptors
+   - 0 discarded descriptors
+
+o  External set _robert_predict_e7832d1e0a83.csv loaded successfully, including:
+   - 1992 datapoints (rows)
+
+o  ML model No_PFI (with no PFI filter) and Xy database were loaded, including:
+   - Target value: yield
+   - Names: __robert_name__
+   - Model: NN
+   - k-fold CV: 2
+   - Repetitions CV: 1
+   - Descriptors: ['C1', 'C2', 'C3', 'L1', 'L2', 'L3', 'L4', 'L5']
+   - Training points: 19
+   - Test points: 5
+   - External test points: 1992
+   o  Saving CSV databases with predictions and their SD in:
+      -  Predicted results of starting dataset: PREDICT/NN_No_PFI.csv
+      -  External set with predicted results: PREDICT/csv_test/_robert_predict_e7832d1e0a83_NN_No_PFI.csv
+
+   o  Saving graphs in:
+      -  Graph in: PREDICT/Results_NN_No_PFI.png
+      -  Graph in: PREDICT/CV_variability_NN_No_PFI.png
+
+   o  Summary of results NN_No_PFI:
+      -  Point counts: CV (train+valid.) = 19, held-out test = 5
+      -  Proportion CV (train+valid.):test = 79:21
+      -  Number of descriptors = 8
+      -  Proportion (train+valid.) points:descriptors = 19:8
+      -  1x 2-fold CV : R2 = 0.57, MAE = 1.2e+01, RMSE = 1.6e+01
+      -  Test : R2 = 0.47, MAE = 1e+01, RMSE = 1.3e+01
+      -  Average SD in test set = 9.1
+      -  y range of dataset (train+valid.) = 6.0 to 7.7e+01, total 7.1e+01
+
+   o  SHAP plot saved in PREDICT/SHAP_NN_No_PFI.png
+      -  L4 = min: -5.4, max: 2.5e+01
+      -  C3 = min: -9.0, max: 2.4e+01
+      -  L3 = min: -3.7, max: 1.9e+01
+      -  L2 = min: -7.5, max: 1.9e+01
+      -  C2 = min: -3.9, max: 9.5
+      -  L5 = min: -2.6, max: 8.4
+      -  C1 = min: -1.9e+01, max: 7.5
+      -  L1 = min: -1.8e+01, max: 3.5
+
+   o  PFI plot saved in PREDICT/PFI_NN_No_PFI.png
+      Influence on RMSE
+      -  C3 = 1.9e+01 +- 0.0
+      -  C1 = 1.7e+01 +- 0.0
+      -  L4 = 1.6e+01 +- 0.0
+      -  L3 = 9.5 +- 0.0
+      -  L2 = 9.4 +- 0.0
+      -  C2 = 9.4 +- 0.0
+      -  L1 = 8.1 +- 0.0
+      -  L5 = 6.9 +- 0.0
+
+   o  The Pearson heatmap was stored in PREDICT/Pearson_heatmap_No_PFI.png.
+      Ideally, variables should show low correlations.
+      o  Correlations between variables are acceptable
+
+   o  Outliers plot saved in PREDICT/Outliers_NN_No_PFI.png
+      Train: 1 outliers out of 19 datapoints (5.3%)
+      -  18 (3.9 SDs)
+      Test: 5 outliers out of 5 datapoints (100.0%)
+      -  17 (5e+02 SDs)
+      -  4 (2.9e+02 SDs)
+      -  13 (1.1e+02 SDs)
+      -  21 (7.7e+02 SDs)
+      -  8 (1.2e+01 SDs)
+
+   o  y-values distribution plot saved in PREDICT/y_distribution_NN_No_PFI.png
+      Ideally, the number of datapoints in the four quartiles of the y-range should be uniform (25% population in each quartile) to have similar confidence intervals in the predictions across the y-range
+      -  The number of points in each quartile is Q1: 6, Q2: 4, Q3: 7, Q4: 7
+      o  Your data seems quite uniform
+
+
+------- Starting model with PFI filter (only important descriptors used) -------
+
+o  Database NN_PFI_db.csv loaded successfully, including:
+   - 24 datapoints
+   - 8 accepted descriptors
+   - 2 ignored descriptors
+   - 0 discarded descriptors
+
+o  External set _robert_predict_e7832d1e0a83.csv loaded successfully, including:
+   - 1992 datapoints (rows)
+
+o  ML model PFI (with PFI filter) and Xy database were loaded, including:
+   - Target value: yield
+   - Names: __robert_name__
+   - Model: NN
+   - k-fold CV: 2
+   - Repetitions CV: 1
+   - Descriptors: ['C3', 'C1', 'L4', 'L3']
+   - Training points: 19
+   - Test points: 5
+   - External test points: 1992
+   o  Saving CSV databases with predictions and their SD in:
+      -  Predicted results of starting dataset: PREDICT/NN_PFI.csv
+      -  External set with predicted results: PREDICT/csv_test/_robert_predict_e7832d1e0a83_NN_PFI.csv
+
+   o  Saving graphs in:
+      -  Graph in: PREDICT/Results_NN_PFI.png
+      -  Graph in: PREDICT/CV_variability_NN_PFI.png
+
+   o  Summary of results NN_PFI:
+      -  Point counts: CV (train+valid.) = 19, held-out test = 5
+      -  Proportion CV (train+valid.):test = 79:21
+      -  Number of descriptors = 4
+      -  Proportion (train+valid.) points:descriptors = 19:4
+      -  1x 2-fold CV : R2 = 0.52, MAE = 1.3e+01, RMSE = 1.7e+01
+      -  Test : R2 = 0.45, MAE = 1.5e+01, RMSE = 1.6e+01
+      -  Average SD in test set = 5.7
+      -  y range of dataset (train+valid.) = 6.0 to 7.7e+01, total 7.1e+01
+
+   o  SHAP plot saved in PREDICT/SHAP_NN_PFI.png
+      -  L4 = min: -5.4, max: 2.9e+01
+      -  L3 = min: -4.1, max: 2.1e+01
+      -  C3 = min: -5.3, max: 1.5e+01
+      -  C1 = min: -1.5e+01, max: 5.4
+
+   o  PFI plot saved in PREDICT/PFI_NN_PFI.png
+      Influence on RMSE
+      -  L4 = 9.5 +- 0.0
+      -  C3 = 5.2 +- 0.0
+      -  C1 = 5.1 +- 0.0
+      -  L3 = 4.5 +- 0.0
+
+   o  The Pearson heatmap was stored in PREDICT/Pearson_heatmap_PFI.png.
+      Ideally, variables should show low correlations.
+      o  Correlations between variables are acceptable
+
+   o  Outliers plot saved in PREDICT/Outliers_NN_PFI.png
+      Train: 1 outliers out of 19 datapoints (5.3%)
+      -  22 (2.2 SDs)
+      Test: 0 outliers out of 5 datapoints (0.0%)
+
+   o  y-values distribution plot saved in PREDICT/y_distribution_NN_PFI.png
+      Ideally, the number of datapoints in the four quartiles of the y-range should be uniform (25% population in each quartile) to have similar confidence intervals in the predictions across the y-range
+      -  The number of points in each quartile is Q1: 6, Q2: 4, Q3: 7, Q4: 7
+      o  Your data seems quite uniform
+
+Time PREDICT: 13.46 seconds
+

@@ -1,0 +1,62 @@
+ROBERT v 2.1.0 2026/05/14 22:56:20 
+How to cite: Dalmau, D.; Alegre Requena, J. V. WIREs Comput Mol Sci. 2024, 14, e1733.
+
+
+o  Starting tests to verify the prediction ability of the ML models with the VERIFY module
+
+
+------- Starting model with all variables (No PFI) -------
+
+o  Database NN_db.csv loaded successfully, including:
+   - 24 datapoints
+   - 9 accepted descriptors
+   - 1 ignored descriptors
+   - 0 discarded descriptors
+
+o  ML model No_PFI (with no PFI filter) and Xy database were loaded, including:
+   - Target value: yield
+   - Names: __robert_name__
+   - Model: NN
+   - k-fold CV: 2
+   - Repetitions CV: 1
+   - Descriptors: ['C1', 'C2', 'C3', 'L1', 'L2', 'L3', 'L4', 'L5']
+   - Training points: 19
+   - Test points: 5
+
+   o  VERIFY plot saved in VERIFY/VERIFY_tests_NN_No_PFI.png
+      Results of flawed models and sorted cross-validation:
+      Original RMSE (1x 2-fold CV) 1.6e+01 + 15% & 30% threshold = 1.8e+01 & 2.1e+01
+         o y_mean: PASSED, RMSE = 2.3e+01, higher than thresholds
+         o y_shuffle: PASSED, RMSE = 2.3e+01, higher than thresholds
+         - onehot: UNCLEAR, RMSE = 1.9e+01, higher than original, but close to fail
+         - Sorted 2-fold CV : R2 = [0.01, 0.0], MAE = [31.55, 27.26], RMSE = [35.04, 29.83]
+
+
+------- Starting model with PFI filter (only important descriptors used) -------
+
+o  Database NN_PFI_db.csv loaded successfully, including:
+   - 24 datapoints
+   - 9 accepted descriptors
+   - 1 ignored descriptors
+   - 0 discarded descriptors
+
+o  ML model PFI (with PFI filter) and Xy database were loaded, including:
+   - Target value: yield
+   - Names: __robert_name__
+   - Model: NN
+   - k-fold CV: 2
+   - Repetitions CV: 1
+   - Descriptors: ['C3', 'C1', 'L4', 'L3']
+   - Training points: 19
+   - Test points: 5
+
+   o  VERIFY plot saved in VERIFY/VERIFY_tests_NN_PFI.png
+      Results of flawed models and sorted cross-validation:
+      Original RMSE (1x 2-fold CV) 1.7e+01 + 15% & 30% threshold = 1.9e+01 & 2.2e+01
+         o y_mean: PASSED, RMSE = 2.3e+01, higher than thresholds
+         x y_shuffle: FAILED, RMSE = 1.8e+01, lower than threshold
+         x onehot: FAILED, RMSE = 1.7e+01, lower than threshold
+         - Sorted 2-fold CV : R2 = [0.21, 0.08], MAE = [31.7, 30.85], RMSE = [34.14, 33.24]
+
+Time VERIFY: 7.73 seconds
+

@@ -1,0 +1,36 @@
+ROBERT v 2.1.0 2026/05/14 22:56:20 
+How to cite: Dalmau, D.; Alegre Requena, J. V. WIREs Comput Mol Sci. 2024, 14, e1733.
+
+
+o  Starting generation of ML models with the GENERATE module
+
+o  Database _robert_train_CURATE.csv loaded successfully, including:
+   - 24 datapoints
+   - 10 accepted descriptors
+   - 1 ignored descriptors
+   - 0 discarded descriptors
+
+o  Starting heatmap scan with 1 ML models (['NN']).
+   Heatmap generation:
+   o Starting BO-based hyperoptimization using the combined target:
+                    
+     1. 50% = RMSE from a 1x repeated 2-fold CV (interpoplation)
+                    
+     2. 50% = RMSE from the bottom or top (worst performing) fold in a sorted 2-fold CV (extrapolation)
+                    
+
+   - 1/1 - ML model: NN 
+      o Using model-specific curated database: _robert_train_CURATE_NN.csv
+
+o  Before hyperoptimization, 20% of the data (or 4 points at least) was separated as test set, using an even distribution of data points across the range of y values.
+   o Best combined RMSE (target) found in BO for NN (no PFI filter): 2.5e+01
+
+o  Before hyperoptimization, 20% of the data (or 4 points at least) was separated as test set, using an even distribution of data points across the range of y values.
+   o Combined RMSE for NN (with PFI filter): 2.6e+01
+
+o  Heatmap_ML_models_No_PFI succesfully created in GENERATE/Raw_data
+
+o  Heatmap_ML_models_PFI succesfully created in GENERATE/Raw_data
+
+Time GENERATE: 17.53 seconds
+

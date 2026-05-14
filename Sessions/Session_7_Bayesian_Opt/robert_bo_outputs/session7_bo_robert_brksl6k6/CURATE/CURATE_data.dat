@@ -1,0 +1,53 @@
+ROBERT v 2.1.0 2026/05/14 22:56:20 
+How to cite: Dalmau, D.; Alegre Requena, J. V. WIREs Comput Mol Sci. 2024, 14, e1733.
+
+
+o  Starting data curation with the CURATE module
+
+o  Database _robert_train.csv loaded successfully, including:
+   - 24 datapoints
+   - 5 accepted descriptors
+   - 1 ignored descriptors
+   - 0 discarded descriptors
+
+o  Analyzing categorical variables
+   A total of 2 categorical variables were converted using the onehot mode in the categorical option
+   Initial descriptors:
+   - Ligand
+   - Pd_precatalyst
+   Generated descriptors:
+   - L1
+   - L2
+   - L3
+   - L4
+   - L5
+   - L6
+   - C1
+   - C2
+   - C3
+   - C4
+
+o  Duplication filters activated
+   Excluded datapoints:
+   -  No datapoints were removed
+
+o  Correlation filter activated with these thresholds: thres_x = 0.7
+   Excluded descriptors:
+   - Pd_loading: all the values are the same
+   - Selectfluor: all the values are the same
+   - Temperature: all the values are the same
+
+
+o  There are more descriptors than one-third of the data points. A Recursive Feature Elimination with Cross-Validation (RFECV) or permutation feature importance (PFI) using 1x 2_fold_cv will be performed to select the most relevant descriptors for each model
+
+   - NN: 8 descriptors selected (using PFI)
+
+   o Model NN: 8 descriptors remaining:
+      C1, C2, C3, L1, L2, L3, L4, L5
+
+o  Model-specific curated databases were stored in /home/laplaza/Projects/AI-workshops/Sessions/Session_7_Bayesian_Opt/robert_bo_outputs/session7_bo_robert_brksl6k6/CURATE
+
+o  The Pearson heatmap was stored in CURATE/Pearson_heatmap.png.
+
+Time CURATE: 1.32 seconds
+
