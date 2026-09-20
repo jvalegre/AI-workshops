@@ -5,3 +5,4 @@
  - NHC ligands change to NH
 - Example catalyst, what descps? HOMO vs vbur in metal
 - Go to rtd to check cheatsheet
+- SMILES can be copied from PubChem/online, Enamie offers SDF files, Reaxys/SciFinder
