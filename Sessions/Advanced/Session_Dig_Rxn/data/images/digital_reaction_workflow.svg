@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">From SMILES to digital reactions</title>
+  <desc id="desc">Read molecules from SMILES, define a SMARTS pattern, detect whether the pattern is present, and apply Reaction SMARTS to generate candidate products.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4f9fb"/>
+      <stop offset="0.56" stop-color="#eef6f5"/>
+      <stop offset="1" stop-color="#f6f1f9"/>
+    </linearGradient>
+    <linearGradient id="route" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2b7d86"/>
+      <stop offset="0.55" stop-color="#b16b4e"/>
+      <stop offset="1" stop-color="#7867a6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="340" rx="24" fill="url(#background)"/>
+  <path d="M0 304 C270 276 453 347 676 321 S1097 272 1280 320" fill="none" stroke="#dce9ec" stroke-width="2"/>
+  <text x="44" y="43" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2.5" fill="#577887">THE NOTEBOOK ROUTE</text>
+  <text x="44" y="87" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#16394d">From SMILES to digital reactions</text>
+
+  <path d="M155 177 H1075" fill="none" stroke="#bfd3d7" stroke-width="6" stroke-linecap="round"/>
+  <g fill="none" stroke="#638e96" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M416 168 L428 177 L416 186"/>
+    <path d="M722 168 L734 177 L722 186"/>
+    <path d="M1028 168 L1040 177 L1028 186"/>
+  </g>
+
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="72" y="114" width="166" height="35" rx="17.5" fill="#deedf0"/>
+    <text x="155" y="137" font-family="Consolas, monospace" font-size="17" font-weight="700" fill="#1f6672">CC(=O)O</text>
+    <circle cx="155" cy="177" r="29" fill="#2b7d86" stroke="#ffffff" stroke-width="5"/>
+    <text x="155" y="184" font-size="19" font-weight="700" fill="#ffffff">1</text>
+    <text x="155" y="236" font-size="23" font-weight="700" fill="#17394a">Read molecules</text>
+    <text x="155" y="266" font-size="16" fill="#456273">SMILES → RDKit molecule</text>
+
+    <rect x="376" y="114" width="166" height="35" rx="17.5" fill="#deedf0"/>
+    <text x="459" y="137" font-family="Consolas, monospace" font-size="17" font-weight="700" fill="#1f6672">[C]=[O]</text>
+    <circle cx="459" cy="177" r="29" fill="#2b7d86" stroke="#ffffff" stroke-width="5"/>
+    <text x="459" y="184" font-size="19" font-weight="700" fill="#ffffff">2</text>
+    <text x="459" y="236" font-size="23" font-weight="700" fill="#17394a">Define SMARTS</text>
+    <text x="459" y="266" font-size="16" fill="#456273">Describe a chemical pattern</text>
+
+    <rect x="656" y="114" width="218" height="35" rx="17.5" fill="#f7e9df"/>
+    <text x="765" y="137" font-family="Consolas, monospace" font-size="16" font-weight="700" fill="#955b3c">HasSubstructMatch()</text>
+    <circle cx="765" cy="177" r="29" fill="#b16b4e" stroke="#ffffff" stroke-width="5"/>
+    <text x="765" y="184" font-size="19" font-weight="700" fill="#ffffff">3</text>
+    <text x="765" y="236" font-size="23" font-weight="700" fill="#17394a">Detect a pattern</text>
+    <text x="765" y="266" font-size="16" fill="#456273">Present? → True / False</text>
+
+    <rect x="982" y="114" width="166" height="35" rx="17.5" fill="#ebe7f4"/>
+    <text x="1065" y="137" font-family="Consolas, monospace" font-size="17" font-weight="700" fill="#705d9c">R1.R2 &gt;&gt; P</text>
+    <circle cx="1065" cy="177" r="29" fill="#7867a6" stroke="#ffffff" stroke-width="5"/>
+    <text x="1065" y="184" font-size="19" font-weight="700" fill="#ffffff">4</text>
+    <text x="1065" y="236" font-size="23" font-weight="700" fill="#17394a">Apply a reaction</text>
+    <text x="1065" y="266" font-size="16" fill="#456273">Reaction SMARTS → products</text>
+  </g>
+</svg>
